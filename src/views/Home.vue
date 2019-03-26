@@ -9,7 +9,7 @@
                   justify-center
                   class="white--text">
           <img src="../assets/vuetify.png" alt="Vuetify" height="200">
-          <h1 class="white--text mb-2 display-1 text-xs-center">学习永无止境</h1>
+          <h1 class="white--text mb-2 display-1 text-xs-center">jenkins学习</h1>
           <div class="subheading mb-3 text-xs-center">write by xingjin</div>
           <v-btn
                   class="orange darken-1 mt-5"
